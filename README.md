@@ -5,7 +5,7 @@
 ## Python
 
 ### Topics
-- [Mapping AirBnBs in Brooklyn](https://jmrze.github.io/docs/brooklyn_map.html)
+- [Mapping AirBnBs in Brooklyn](https://jmrze.github.io/docs/brooklyn_map)
 
 ## R
 
